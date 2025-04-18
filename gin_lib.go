@@ -3,5 +3,5 @@ package ginlib
 import "fmt"
 
 func GinLib() {
-	fmt.Println("GinLib Version 1.0.0")
+	fmt.Println("GinLib Version 2.0.0")
 }
